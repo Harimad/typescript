@@ -162,7 +162,7 @@ const App = () => {
   // console.log(refrigerator.turnOn())
   // console.log(refrigerator.turnOff())
 
-  return <div></div>
+  return <div>1</div>
 }
 
 export default App
